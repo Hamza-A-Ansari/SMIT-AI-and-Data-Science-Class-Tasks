@@ -1,0 +1,2 @@
+# Grading Web Application
+A simple web application of a grading system using streamlit as a framework of Python. In this application, Decision Tree Classifier(A Machine Learning Algorithm) is used to predict the Grade against the percentage.
